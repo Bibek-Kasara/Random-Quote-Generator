@@ -26,3 +26,4 @@ Click the button to generate a new motivational quote each time.
 
 ## 📂 Project Structure
 
+![preview of project](image.png)
