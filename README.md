@@ -1,2 +1,28 @@
-# Random-Quote-Generator
-A clean and responsive random quote generator built with HTML, CSS, and modern JavaScript, showcasing DOM manipulation and simple UI design.
+# 📜 Random Quote Generator
+
+A simple and clean **Random Quote Generator** built using **HTML, CSS, and JavaScript**.  
+Click the button to generate a new motivational quote each time.
+
+---
+
+## 🚀 Features
+
+- Generates a random motivational quote on button click
+- Clean and minimal UI
+- Responsive layout
+- Uses modern JavaScript (`const`, arrow functions)
+- Beginner-friendly project structure
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure
+- **CSS3** – Styling and layout
+- **JavaScript (ES6)** – Logic and interactivity
+- **Google Fonts (Inter / Poppins)** – Typography
+
+---
+
+## 📂 Project Structure
+
